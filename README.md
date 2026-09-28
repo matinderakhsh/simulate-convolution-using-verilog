@@ -111,7 +111,7 @@ This highlights vertical edges (strong horizontal intensity gradients) in the im
 
 | Input (`Source2.jpg`, grayscale, 750×750) | Output (`input_image.png`, after convolution) |
 |---|---|
-| _add image here_ | _add image here_ |
+| ![Before](images/input.jpg) | ![Before](images/output.png) |
 
 ## Simulation
 
